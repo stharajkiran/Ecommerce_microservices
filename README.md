@@ -31,7 +31,7 @@ This project demonstrates the implementation of a distributed e-commerce system 
 
 The application follows a microservices architecture with the following services:
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](./services/architecture.png)
 
 ### Event Flow
 1. **User Action**: Customer clicks checkout on the frontend
