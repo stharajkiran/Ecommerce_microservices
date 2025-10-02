@@ -46,8 +46,8 @@ The application follows a microservices architecture with the following services
 
 ```
 ecommerce/
+├── README.md                   # Project documentation
 ├── services/
-│   ├── README.md               # This file - Project documentation
 │   ├── client/                 # Next.js Frontend Application
 │   │   ├── src/
 │   │   │   ├── app/
@@ -65,7 +65,6 @@ ecommerce/
 │   └── kafka/                  # Kafka configuration and setup
 │       ├── docker-compose.yml  # Kafka cluster setup
 │       └── admin.js            # Kafka topic creation
-└── .git/                       # Git repository
 ```
 ```
 
